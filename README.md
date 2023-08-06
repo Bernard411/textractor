@@ -1,0 +1,3 @@
+# textractor
+
+add tesaract
